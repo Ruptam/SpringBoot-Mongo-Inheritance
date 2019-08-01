@@ -1,0 +1,5 @@
+org\bapan\entity\Base.class
+org\bapan\entity\Derived.class
+org\bapan\repository\InheritanceRepository.class
+org\bapan\controller\SampleController.class
+org\bapan\SimpleSpringBoot.class
